@@ -1,0 +1,15 @@
+# Core application and UI
+streamlit==1.37.0
+python-dotenv==1.0.1
+
+# LangChain for RAG pipeline and model integration
+langchain==0.2.1
+langchain-community==0.2.1
+langchain-openai==0.1.7
+
+# Local model and vector database
+ollama==0.2.1
+chromadb==0.5.0
+
+# Document processing
+pypdf==4.2.0
