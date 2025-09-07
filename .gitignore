@@ -1,1 +1,18 @@
+# VS Code specific
 .vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment folders
+.env
+.venv
+env/
+venv/
+
+# Temporary files
+temp_files/
+*.tmp
