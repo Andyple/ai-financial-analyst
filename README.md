@@ -30,8 +30,8 @@ Follow these steps to set up and run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd Financial-Report-Analyst
+git clone https://github.com/Andyple/ai-financial-analyst
+cd ai-financial-analyst
 ```
 
 ### 2. Set Up Your Python Environment
