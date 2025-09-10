@@ -10,7 +10,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain.chains import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_community.document_loaders import PyPDFLoader, TextLoader
-from ollama_helper import get_chat_models, get_embedding_models, pull_model
+from .ollama_helper import get_chat_models, get_embedding_models, pull_model
 
 # --- App Configuration ---
 st.set_page_config(page_title="AI Financial Analyst", page_icon="📈", layout="wide")
